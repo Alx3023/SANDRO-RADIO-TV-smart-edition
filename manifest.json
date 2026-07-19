@@ -4,7 +4,7 @@
   "description": "La tua TV e Radio smart personale con canali TV e Radio italiane",
   "lang": "it-IT",
   "dir": "ltr",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
